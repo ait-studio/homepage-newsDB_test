@@ -2,7 +2,7 @@ name: Update News CMS
 
 on:
   schedule:
-    - cron: '0 13 * * *'      # 매일 13시에 실행
+    - cron: '0 5 * * *'      # 한국시간 기준 매일 14(14->5)시에 실행
   workflow_dispatch:         # 수동 실행 가능
 
 jobs:

@@ -346,7 +346,7 @@
     "content_en": "CES, the world’s largest consumer electronics and IT trade show, officially wrapped up today (11th, KST). One of this year’s key themes was digital health, with numerous Korean startups showcasing innovative ideas. Reporting from the U.S., correspondent Sungjin Jung shares more. By simply capturing front and side profile images, the system analyzes posture—including forward head position, as well as shoulder and pelvic tilt. “It looks like your left pelvic angle is slightly higher than the right.” A process that used to take over 30 minutes using protractors to measure arm mobility can now be done in under a minute with just six photos, accurately identifying areas in need of treatment. By filming a simple 6-meter round-trip walk, the system performs a comprehensive balance and gait analysis. Using pose estimation AI, the technology estimates joint positions from video alone—achieving 95% of the accuracy of motion capture systems worth hundreds of millions of won. [Singi Park / CEO of Gait Analysis Startup] “With computer vision AI, we can precisely measure gait movements and even conduct early screening for conditions like Parkinson’s disease, sarcopenia, and fall risk.”",
     "pressed_on": "2025. 1. 11",
     "url": "https://n.news.naver.com/mnews/article/055/0001222646?sid=101",
-    "thumbnail_src": "https://previews.dropbox.com/p/thumb/ACt1VyNpB0yxUdDfvG3x18KLCo3f-MpYzciYnzXZe21JnIHsyNkq1NBoyJPFEkERBPn6TdIRO0vL59nTUhtl6DkbceFxbU-Mcbqzrzf6EtqFOsdvs3-4STIJfBUgwGIIBhy0Dvdugp8JVEw18HQ6pYH-pwdyG81T6jZX_6XkHg0P9ybTsi7lCrHePnwuyys0xFs8hFCMyRByGjW8KbVIgS-XNq4MtCJ-lVxyK6Diw4ngKjpzNBb2HhZdn8ixPnB5Hs6N-fFU13FvxU_22VfViFsuoES4UkNuA_gFPvevptGhKaS9doG0rctr6NTleDBJcXY/p.png",
+    "thumbnail_src": "../About/News/image_250111.png",
     "featured_ko": "FALSE",
     "featured_en": "FALSE"
   },
@@ -502,7 +502,7 @@
     "content_en": "Korea Investment Accelerator (Hanwha Investment AC) announced on the 23rd that it has selected 11 startups to join the 7th cohort of its batch program, “Bareun Donghaeng.” The selected companies include Eskimo, Circlelow, Pixel, Waveshine Tech, Newlook, Mandnda, AIT Studio, Nanoratis, SconAI, Datium, and FixUp. The program saw fierce competition, with over 600 startups applying—resulting in a 55:1 acceptance rate. The chosen startups span a range of sectors including generative AI, digital healthcare, materials and components, sustainable materials, and global platforms. Hanwha Investment AC noted that selected teams demonstrated not only technological strength but also high-level readiness in terms of go-to-market strategies, global scalability, and technological extensibility.",
     "pressed_on": "2025. 5. 23",
     "url": "https://news.mt.co.kr/mtview.php?no=2025052311093128296",
-    "thumbnail_src": "https://previews.dropbox.com/p/thumb/ACvqcLBqJURM-WwyRBI9zxC-Pj_u8R_lMR3vdm3z0PmznhFZk3EuVMcVB3d0gdnWuMKQJg5hIVe-NO0_YlcdFtMRF9e8hD-TI3DTLsJXBFxzoglvFba9Ow0Ege7DrSl4OXrEitpGAHKQAjfwenPH_tAK24swKJOqPKfOLmj1CYRuICHSLCzEW0FLX3KQKHSYne6OZQawl2DkRUdocLOyiJ34I4p2hQACPOF_72tM59dWbzOPNNpWYqY77Ab5r2Fnbl0z9cZhvU8dCWg_BH-QDENz1hbgvXBK5jQUv71_j_HjWyxlgySV_LcVKhN9hGsLfg3Z7n7dsyaAWk1QY1ETn4HU/p.png",
+    "thumbnail_src": "../About/News/image-250523.pngTI3DTLsJXBFxzoglvFba9Ow0Ege7DrSl4OXrEitpGAHKQAjfwenPH_tAK24swKJOqPKfOLmj1CYRuICHSLCzEW0FLX3KQKHSYne6OZQawl2DkRUdocLOyiJ34I4p2hQACPOF_72tM59dWbzOPNNpWYqY77Ab5r2Fnbl0z9cZhvU8dCWg_BH-QDENz1hbgvXBK5jQUv71_j_HjWyxlgySV_LcVKhN9hGsLfg3Z7n7dsyaAWk1QY1ETn4HU/p.png",
     "featured_ko": "FALSE",
     "featured_en": "FALSE"
   },
